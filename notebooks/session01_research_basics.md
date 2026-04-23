@@ -833,6 +833,26 @@ brew install pandoc
 ---
 
 
+### プラグインの追加：Better BibTeX for Zotero
+
+**Pandocでの引用を簡単・確実にする必須プラグイン**
+
+
+
+
+1. https://retorque.re/zotero-better-bibtex/installation/ にアクセス
+2. 最新の `.xpi` ファイルをダウンロード
+3. Zotero → **Tools** → **Add-ons** → ⚙️ → **Install Add-on From File...** で選択
+4. Zoteroを再起動
+
+**設定のポイント：**
+- **Citation Key**: `[auth][year]` などの形式で固定のキーを自動生成
+- **Keep updated**: 論文を追加すると `references.bib` を自動更新
+
+
+---
+
+
 ### Pandocの動作確認
 
 ```bash
