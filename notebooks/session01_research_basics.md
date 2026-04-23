@@ -865,7 +865,14 @@ pandoc --version
 # markdown → Word
 pandoc input.md -o output.docx
 
+---
 # 引用文献付き
+
+引用文献の管理には **Zotero** を使います。
+Zoteroで文献または文献が含まれたフォルダを右クリックからBibTeX形式でエクスポートし、
+`references.bib` という名前で作業フォルダに保存します。
+そして下記のコマンドでWordに変換します。
+
 pandoc input.md \
   --bibliography references.bib \
   --citeproc \
@@ -891,7 +898,20 @@ pandoc input.md \
 
 引用は [@kobayashi2025] のように書きます。
 ```
+*注意 引用は[@kobayashi2025] のように[@]で囲むのですが、kobayashi2025はZoteroで文献をエクスポートした際に自動生成されるキーです。Zoteroで文献をエクスポートされたBibTeXファイルを開いて、文献の部分を確認して適時変更してください。私の場合は
 
+```
+@article{kobayashiImpactDeepLearning2025a,
+  title={Title of the article},
+  author={Author Name},
+  year={2025},
+  journal={Journal Name},
+  volume={Volume},
+  number={Number},
+  pages={Pages}
+}
+```
+だったため、[@kobayashiImpactDeepLearning2025a] のように変更すると、Wordに変換した際に自動的に引用文献が挿入されます。
 
 ---
 
