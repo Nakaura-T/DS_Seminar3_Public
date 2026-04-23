@@ -8,6 +8,21 @@
 
 
 
+# お手伝いいただける実験技術職員様
+
+所属：研究開発戦略本部 技術部門
+居室：総合研究棟　207
+
+小嶌 一生
+kojima@cs.kumamoto-u.ac.jp
+
+青木 敏裕
+aoki@cs.kumamoto-u.ac.jp
+
+
+---
+
+
 # 自己紹介
 
 ![](images/2025-10-31-19-03-13.png)
@@ -728,18 +743,18 @@ https://link.springer.com/article/10.1007/s00330-024-11212-6
 
 ### 📊 論文の図を読んでみよう ③ 年齢別LARの変化量
 
-![](images/DLR_RadiationDose/LAR_DLR.png)
+<div align="center">
+
+![height:400](images/DLR_RadiationDose/LAR_DLR.png)
+</div>
 
 - **a（青）**: 男性　**b（赤）**: 女性
-- 縦軸：DLR導入によるLAR変化量 
-  （マイナス = リスク減少）
-- **若年者ほど効果が大きい**
-- **女性ほど効果が大きい**
+- 縦軸：DLR導入によるLAR変化量 （マイナス = リスク減少）
+- **若年者, 女性ほど効果が大きい**
 
 
 
 ---
-
 
 
 ## 4. 医学データサイエンス研究の例
