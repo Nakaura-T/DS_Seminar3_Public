@@ -1,0 +1,101 @@
+﻿Subspeciality,Answer,GPT-4.1_ans,o3_ans,Claude 3.7 Sonnet_ans,Claude 3.7 Sonnet-thinking_ans,Gemini 2.5 Pro Preview_ans,Gemini 2.5 Flash Preview-thinking_ans,GPT-4.1,o3,Claude 3.7 Sonnet,Claude 3.7 Sonnet-thinking,Gemini 2.5 Pro Preview,Gemini 2.5 Flash Preview-thinking
+Neuroradiology & Head & Neck,d,d,a,a,a,a,a,1,0,0,0,0,0
+Neuroradiology & Head & Neck,b,b,b,b,b,b,b,1,1,1,1,1,1
+Neuroradiology & Head & Neck,a,c,c,c,c,c,c,0,0,0,0,0,0
+Neuroradiology & Head & Neck,d,d,d,e,e,d,a,1,1,0,0,1,0
+Neuroradiology & Head & Neck,e,e,e,e,e,c,e,1,1,1,1,0,1
+Neuroradiology & Head & Neck,"c,e","a,d","a,d","a,b","a,b","c,d","a,c",0,0,0,0,0,0
+Neuroradiology & Head & Neck,e,d,c,c,c,c,c,0,0,0,0,0,0
+Neuroradiology & Head & Neck,e,e,e,e,e,e,e,1,1,1,1,1,1
+Neuroradiology & Head & Neck,c,b,c,a,d,e,e,1,1,1,1,1,1
+Neuroradiology & Head & Neck,e,d,d,e,d,d,d,0,0,1,0,0,0
+Neuroradiology & Head & Neck,d,d,d,d,d,d,d,1,1,1,1,1,1
+Neuroradiology & Head & Neck,b,b,b,b,b,b,b,1,1,1,1,1,1
+Neuroradiology & Head & Neck,b,b,b,c,c,b,c,1,1,0,0,1,0
+Neuroradiology & Head & Neck,d,d,d,b,c,d,c,1,1,0,0,1,0
+Neuroradiology & Head & Neck,b,b,b,b,b,b,b,1,1,1,1,1,1
+Neuroradiology & Head & Neck,e,e,e,e,e,e,e,1,1,1,1,1,1
+MSK & Breast,d,b,b,b,b,b,b,1,1,1,1,1,1
+MSK & Breast,b,c,b,b,b,b,b,0,1,1,1,1,1
+MSK & Breast,c,d,d,d,d,d,d,0,0,0,0,0,0
+MSK & Breast,e,e,e,d,e,d,e,1,1,0,1,0,1
+MSK & Breast,e,e,e,e,e,e,e,1,0,1,1,1,1
+MSK & Breast,"c,d","c,d","b,e","c,d","c,d","c,d","c,d",0,0,1,1,0,1
+MSK & Breast,d,d,d,d,d,d,d,1,1,1,1,1,0
+MSK & Breast,d,d,d,d,d,d,d,1,1,1,1,1,1
+MSK & Breast,e,e,d,e,e,e,d,0,1,0,0,0,1
+MSK & Breast,d,a ,e,e,e,a,a,0,0,0,0,0,0
+MSK & Breast,e,e,a,e,e,e,e,1,0,1,1,1,1
+Thoracic & Cardiac,e,b,b,b,b,e,e,0,0,0,0,1,1
+Thoracic & Cardiac,b,c,b,b,c,b,b,0,1,1,0,1,1
+Thoracic & Cardiac,d,d,d,d,d,d,d,1,1,1,1,1,1
+Thoracic & Cardiac,c,c,a,e,b,a,c,0,0,0,0,0,0
+Thoracic & Cardiac,b,b,b,b,b,b,b,1,1,1,1,1,1
+Thoracic & Cardiac,"a,b","a,b","a,b","a,b","a,b","b,e","a,b",1,1,1,1,0,1
+Thoracic & Cardiac,a,b,b,a,a,a,a,0,0,1,1,1,1
+Thoracic & Cardiac,c,c,c,c,c,c,c,1,1,1,1,1,1
+Thoracic & Cardiac,e,c,e,e,e,e,e,0,1,1,1,1,1
+Thoracic & Cardiac,d,d,d,b,b,d,b,1,1,0,0,1,0
+Thoracic & Cardiac,c,e,e,e,e,e,e,0,0,0,0,0,0
+Thoracic & Cardiac,c,c,c,c,c,c,c,1,1,1,1,1,1
+Thoracic & Cardiac,c,c,c,c,c,c,c,1,1,1,1,1,1
+Thoracic & Cardiac,d,d,d,d,d,d,d,1,1,1,1,1,1
+Thoracic & Cardiac,c,c,c,c,d,c,c,1,1,1,0,1,1
+Thoracic & Cardiac,e,e,e,e,e,e,e,1,1,1,1,1,1
+Thoracic & Cardiac,e,e,e,e,e,e,e,1,1,1,1,1,1
+Thoracic & Cardiac,e,e,e,e,e,e,e,1,1,1,1,1,1
+Thoracic & Cardiac,"c,e","c,e","c,e","b,c","b,c","c,e","c,e",1,1,0,0,1,1
+Thoracic & Cardiac,d,d,d,d,d,d,d,1,1,1,1,1,1
+Abdominal & Pelvic,b,e,b,b,b,b,b,0,1,1,1,1,1
+Abdominal & Pelvic,"b,d","b,e","b,d","a,e","b,e","b,e","b,d",0,1,0,0,0,1
+Abdominal & Pelvic,c,d,d,e,d,d,d,0,0,0,0,0,0
+Abdominal & Pelvic,a,a,a,a,a,a,a,1,1,1,1,1,1
+Abdominal & Pelvic,e,e,e,e,c,e,e,1,1,1,0,1,1
+Abdominal & Pelvic,d,b,b,b,b,b,e,0,0,0,0,0,0
+Abdominal & Pelvic,a,a,a,a,a,a,a,1,1,1,1,1,1
+Abdominal & Pelvic,b,b,c,c,c,c,e,0,1,1,1,1,0
+Abdominal & Pelvic,b,e,b,e,e,b,e,0,1,0,0,1,0
+Abdominal & Pelvic,e,b,e,b,b,b,b,0,1,0,0,0,0
+Abdominal & Pelvic,c,d,c,e,c,c,c,0,1,0,1,1,1
+Abdominal & Pelvic,e,d,e,e,e,e,e,0,1,1,1,1,1
+Abdominal & Pelvic,a,c,c,c,c,a,c,0,0,0,0,1,0
+Abdominal & Pelvic,d,d,d,d,d,d,d,1,1,1,1,1,1
+Abdominal & Pelvic,d,d,d,d,d,d,e,1,1,1,1,1,0
+Abdominal & Pelvic,b,b,b,e,c,b,b,1,1,0,0,1,1
+Abdominal & Pelvic,d,d,d,d,c,d,d,1,1,1,0,1,1
+Abdominal & Pelvic,"b,d","a,b","b,d","a,c","a,c","b,d","a,c",0,1,0,0,1,0
+Abdominal & Pelvic,e,e,e,e,e,e,e,1,1,1,1,1,1
+Abdominal & Pelvic,b,b,b,b,d,d,d,1,1,1,0,0,0
+Abdominal & Pelvic,c,c,c,c,c,c,c,1,1,1,1,1,1
+Abdominal & Pelvic,d,c,c,a,c,d,d,0,0,0,0,1,1
+Abdominal & Pelvic,"a,c","a,c","a,c","a,c","a,c","a,c","a,c",1,1,1,1,1,1
+Abdominal & Pelvic,"b,e","b,e","b,e","b,e","b,e",b.e,"b,e",1,1,1,1,0,1
+Abdominal & Pelvic,c,c,c,c,c,c,c,1,1,1,1,1,1
+Abdominal & Pelvic,d,b,d,b,d,d,d,0,1,0,1,1,1
+Abdominal & Pelvic,c,d,b,d,c,c,d,0,0,0,1,1,0
+Nuclear Medicine,d,b,b,b,b,b,b,1,1,1,1,1,1
+Nuclear Medicine,d,d,d,e,d,d,e,1,1,0,1,1,0
+Nuclear Medicine,c,b,b,b,b,b,b,0,0,0,0,0,0
+Nuclear Medicine,d,d,d,b,b,d,e,1,1,0,0,1,0
+Nuclear Medicine,e,a,e,e,a,e,e,0,1,1,0,1,1
+Nuclear Medicine,d,d,d,d,d,d,d,1,1,1,1,1,1
+Nuclear Medicine,d,d,a,a,a,d,a,1,0,0,0,1,0
+Nuclear Medicine,b,b,b,b,b,b,b,1,1,1,1,1,1
+Nuclear Medicine,b,b,b,b,b,d,b,1,1,1,1,0,1
+Nuclear Medicine,c,c,c,c,c,c,c,1,1,1,1,1,1
+Nuclear Medicine,e,e,e,e,e,e,e,1,1,1,1,1,1
+Nuclear Medicine,e,c,e,c,c,e,e,0,1,0,0,1,1
+Nuclear Medicine,d,d,d,d,d,d,d,1,1,1,1,1,1
+Nuclear Medicine,c,e,e,e,e,e,d,0,0,0,0,0,0
+Nuclear Medicine,d,c,c,c,c,c,c,0,0,0,0,0,0
+Nuclear Medicine,d,d,d,d,d,d,d,1,1,1,1,1,1
+Nuclear Medicine,a,e,e,e,e,a,c,0,0,0,0,1,0
+Nuclear Medicine,e,e,e,e,e,e,e,1,1,1,1,1,1
+Nuclear Medicine,d,c,d,c,d,d,d,0,1,0,1,1,1
+Nuclear Medicine,d,d,d,d,d,d,d,1,1,1,1,1,1
+Other,b,d,d,b,b,b,b,0,0,1,1,1,1
+Other,a,a,a,a,a,a,a,1,1,1,1,1,1
+Other,d,d,d,d,d,d,d,1,1,1,1,1,1
+Other,"a,d","a,d","a,d","a,d","a,d","a,d","a,d",1,1,1,1,1,1
+Other,a,a,a,a,a,a,a,1,1,1,1,1,1
+Other,a,b,a,c,a,a,a,0,1,0,1,1,1
