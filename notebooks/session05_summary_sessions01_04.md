@@ -565,3 +565,32 @@ pandoc paper.md --citeproc --bibliography=references.bib --reference-doc=Referen
 - 変換後の `paper.docx` を開き、引用、参考文献、表、図が正しく表示されている
 
 Pandoc 変換は最後の仕上げではなく、途中で何度も実行して表示を確認すると修正しやすくなります。
+
+## 5. CSL ファイルを参照する方法
+
+CSL ファイルは、引用文献リストや本文中引用の表示スタイルを指定するためのファイルです。
+
+たとえば、医学系でよく使われる Vancouver 形式にしたい場合は、`vancouver.csl` のような CSL ファイルを `paper.md` と同じフォルダに置きます。
+
+Pandoc で変換するときに、`--csl` オプションで CSL ファイルを指定します。
+
+```bash
+pandoc paper.md --citeproc --bibliography=references.bib --csl=vancouver.csl --reference-doc=Reference.docx -o paper.docx
+```
+
+YAML header に書く場合は、次のように指定できます。
+
+```markdown
+---
+title: "Paper title"
+bibliography: references.bib
+csl: vancouver.csl
+---
+```
+
+注意点:
+
+- `vancouver.csl` などの CSL ファイル名を正確に書く
+- `paper.md`、`references.bib`、CSL ファイルを同じフォルダに置くと分かりやすい
+- CSL を指定しても、`[@citation_key]` が `references.bib` に存在しない場合は正しく引用されない
+- 変換後の Word ファイルで、本文中引用と参考文献リストの形式を必ず確認する
